@@ -11,6 +11,8 @@
 -Courses Completed
 -     Web Development Course - Verzeo
 -     Python Course (Study week programme) - Progate
+-     Cisco Networking Courses
+-    
 
 <!---
 YemimolKR/YemimolKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
