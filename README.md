@@ -5,6 +5,12 @@
 - 📫 How to reach me:-
       Contact no:-8056356615
       email id :- yemimolkr1999@gmail.com
+- Educational Qualification
+-     Completed High Secondary Schooling (CBSE)
+-     Currently pursuing B Tech (CSE)
+-Courses Completed
+-     Web Development Course - Verzeo
+-     Python Course (Study week programme) - Progate
 
 <!---
 YemimolKR/YemimolKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
